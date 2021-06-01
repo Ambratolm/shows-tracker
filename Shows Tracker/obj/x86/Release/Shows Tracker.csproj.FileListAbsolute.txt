@@ -1,0 +1,9 @@
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Shows Tracker\Shows Tracker\bin\Release\ShowsTracker.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Shows Tracker\Shows Tracker\bin\Release\ShowsTracker.pdb
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Shows Tracker\Shows Tracker\obj\x86\Release\ShowsTracker.Form_About.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Shows Tracker\Shows Tracker\obj\x86\Release\ShowsTracker.Form_Show.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Shows Tracker\Shows Tracker\obj\x86\Release\ShowsTracker.Form_Main.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Shows Tracker\Shows Tracker\obj\x86\Release\ShowsTracker.Properties.Resources.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Shows Tracker\Shows Tracker\obj\x86\Release\Shows Tracker.csproj.GenerateResource.Cache
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Shows Tracker\Shows Tracker\obj\x86\Release\ShowsTracker.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Shows Tracker\Shows Tracker\obj\x86\Release\ShowsTracker.pdb
